@@ -26,4 +26,5 @@ s.t. CountCashiers:
 minimize LengthOfTheShop:
 	lengthOfShop;
 
+
 end;
